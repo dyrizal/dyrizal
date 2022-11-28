@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dyrizal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning pascal
+- 🌱 I’m currently learning pascal/html/css/javascript
 - 💞️ I’m looking to collaborate on programming and willing to learn
 - 📫 How to reach me @dyrizal.mr@gmail.com
 
