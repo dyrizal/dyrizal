@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dyrizal
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning pascal/html/css/javascript
-- 💞️ I’m looking to collaborate on programming and willing to learn
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning HTML/CSS/javascript/React JS/Java
+- 💞️ I’m looking to collaborate on programming and willing to learn more
 - 📫 How to reach me @dyrizal.mr@gmail.com
 
 <!---
